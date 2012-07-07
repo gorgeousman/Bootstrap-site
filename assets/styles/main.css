@@ -1,0 +1,46 @@
+
+/* Overriding styles */
+
+/* Global styles */
+
+.container {
+  width:600px;
+}
+
+h1 {
+  margin-bottom:10px;
+}
+
+p {
+  font-size: 14px;
+  line-height: 120%;
+}
+
+/* Hero */
+
+.hero-unit {
+  margin-top:100px;
+}
+
+/* site-content */
+
+.site-content {
+
+}
+.skill-set {
+
+}
+
+/* Thumbs */
+
+.thumbnail {
+  padding: 10px;
+}
+
+.thumbnail img {
+  margin-right: 10px;
+}
+
+.thumbText p {
+  margin-bottom: 0;
+}
